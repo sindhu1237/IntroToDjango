@@ -133,3 +133,12 @@ e.g; `path('', say_hello),
 * python -m manage startapp firstapp
 
 * ##### **ORM - Object Relational Mapper**
+
+
+
+### Why does admin panel exist?
+- eg; Amazon support they need to go their platform and they ask details and they have some of searching information.
+- Should amzon create a complete website for internal working as well.
+
+**Headless CMS :**
+- CMS = Content Management System
